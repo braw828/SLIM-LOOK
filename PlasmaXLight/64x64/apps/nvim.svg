@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64">
+    <defs>
+        <linearGradient y2="24" y1="24" x2="42.5" x1="5.5" gradientUnits="userSpaceOnUse" id="a">
+            <stop stop-color="#46ad17" offset="0"/>
+            <stop stop-color="#85ff24" offset="1"/>
+        </linearGradient>
+        <linearGradient y2="24" y1="24" x2="42.5" x1="5.5" gradientUnits="userSpaceOnUse" id="c">
+            <stop stop-color="#85ff24" offset="0"/>
+            <stop stop-color="#43a917" offset="1"/>
+        </linearGradient>
+        <linearGradient y2="24" y1="24" x2="42.5" x1="5.5" gradientUnits="userSpaceOnUse" id="b">
+            <stop stop-color="#40a516" offset="0"/>
+            <stop stop-color="#85ff24" offset="1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#a" id="j" gradientUnits="userSpaceOnUse" x1="41.023" y1="33.061" x2="33.871" y2="5.591" gradientTransform="matrix(.7934 0 0 .7877 4.958 5.095)"/>
+        <linearGradient xlink:href="#b" id="i" gradientUnits="userSpaceOnUse" x1="11.828" y1="41.114" x2="12.573" y2="10.648" gradientTransform="matrix(.7934 0 0 .7877 4.958 5.095)"/>
+        <linearGradient xlink:href="#c" id="h" gradientUnits="userSpaceOnUse" x1="35.558" y1="38.957" x2="10.716" y2="10.625" gradientTransform="matrix(.7934 0 0 .7877 4.958 5.095)"/>
+        <linearGradient xlink:href="#d" id="f" gradientUnits="userSpaceOnUse" x1="5.5" y1="24" x2="42.5" y2="24"/>
+        <filter id="e" x="-.048" width="1.096" y="-.048" height="1.096" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="1.12"/>
+        </filter>
+        <filter id="g" x="-.202" width="1.405" y="-.057" height="1.114" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation=".995"/>
+        </filter>
+    </defs>
+    <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="5.5" x2="42.5" y1="24" y2="24">
+        <stop offset="0" stop-color="#00c1c1"/>
+        <stop offset="1" stop-color="#71ff00"/>
+    </linearGradient>
+    <circle r="28" cy="32" cx="32" opacity=".25" fill="#050505" filter="url(#e)"/>
+    <circle cx="32" cy="32" r="28" fill="#e4e4e4"/>
+    <g fill="none" stroke="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" color="#000" font-weight="400" font-family="sans-serif">
+        <path style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M24.674 11.742a.9.9 0 0 0-.488.164l-9.998 7a.9.9 0 0 0-.383.737l-.004 26a.9.9 0 0 0 .385.738l10 7a.9.9 0 0 0 1.416-.738v-40a.9.9 0 0 0-.928-.9zm16.037 0a.9.9 0 0 0-.91.9v40a.9.9 0 0 0 1.416.739l10-7a.9.9 0 0 0 .385-.738v-26a.9.9 0 0 0-.385-.739l-10-7a.9.9 0 0 0-.506-.162z" transform="matrix(.7934 0 0 .7877 6.756 6.93)" overflow="visible" opacity=".25" fill="#000" filter="url(#g)" enable-background="accumulate"/>
+        <path style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M17.623 7.538a.717.717 0 0 0-.38.128L10.85 12.11a.706.706 0 0 0-.175.988L29.763 40.16c.226.32.67.398.993.174l6.394-4.443a.706.706 0 0 0 .175-.986L18.237 7.84a.716.716 0 0 0-.614-.302z" overflow="visible" fill="url(#h)" enable-background="accumulate" transform="translate(8.702 8.643)"/>
+        <path style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M17.631 7.537a.718.718 0 0 0-.387.13L9.31 13.18a.708.708 0 0 0-.304.58l-.003 20.48c0 .232.114.45.306.582l7.934 5.514a.714.714 0 0 0 1.123-.582V8.246c0-.4-.333-.721-.736-.71z" overflow="visible" fill="url(#i)" enable-background="accumulate" transform="translate(8.702 8.643)"/>
+        <path style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M30.355 7.537a.712.712 0 0 0-.722.71v31.507c0 .574.65.91 1.123.582l7.934-5.514a.708.708 0 0 0 .305-.582V13.76a.708.708 0 0 0-.305-.582l-7.934-5.513a.718.718 0 0 0-.401-.128z" overflow="visible" fill="url(#j)" enable-background="accumulate" transform="translate(8.702 8.643)"/>
+    </g>
+</svg>

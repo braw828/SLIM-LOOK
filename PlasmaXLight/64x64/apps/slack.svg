@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64">
+    <defs>
+        <linearGradient xlink:href="#a" id="g" x1="25.579" y1="35.052" x2="44.525" y2="35.052" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.31547 0 0 1.31547 .429 -15.571)"/>
+        <linearGradient xlink:href="#b" id="f" x1="25.579" y1="12.948" x2="44.525" y2="12.948" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.31547 0 0 1.31547 .429 -15.571)"/>
+        <linearGradient xlink:href="#c" id="i" x1="3.475" y1="12.948" x2="22.421" y2="12.948" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.31547 0 0 1.31547 .429 -15.571)"/>
+        <linearGradient xlink:href="#d" id="h" x1="3.475" y1="35.052" x2="22.421" y2="35.052" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.31547 0 0 1.31547 .429 -15.571)"/>
+        <filter id="e" x="-.06" width="1.12" y="-.06" height="1.12" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="1.35"/>
+        </filter>
+    </defs>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="24.829" x2="45.275" y1="12.948" y2="12.948">
+        <stop offset="0" stop-color="#03d17b"/>
+        <stop offset="1" stop-color="#007b41"/>
+    </linearGradient>
+    <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="24.829" x2="45.275" y1="35.052" y2="35.052">
+        <stop offset="0" stop-color="#eca345"/>
+        <stop offset="1" stop-color="#ff2700"/>
+    </linearGradient>
+    <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="2.725" x2="23.171" y1="35.052" y2="35.052">
+        <stop offset="0" stop-color="#c81420"/>
+        <stop offset="1" stop-color="#f04"/>
+    </linearGradient>
+    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="2.725" x2="23.171" y1="12.948" y2="12.948">
+        <stop offset="0" stop-color="#2ba2c6"/>
+        <stop offset="1" stop-color="#0064ff"/>
+    </linearGradient>
+    <g fill="none" stroke-width="1.5">
+        <g opacity=".25" fill="#111" filter="url(#e)" transform="translate(0 16)">
+            <path d="M39.27-11a5.192 5.192 0 0 0-5.193 5.192V8.731a5.192 5.192 0 0 0 5.192 5.192 5.192 5.192 0 0 0 5.192-5.192V-5.808A5.192 5.192 0 0 0 39.27-11zM53.807 3.539a5.192 5.192 0 0 0-5.192 5.192v5.192h5.192A5.192 5.192 0 0 0 59 8.73a5.192 5.192 0 0 0-5.192-5.192zM59 23.27a5.192 5.192 0 0 0-5.192-5.193H39.269a5.192 5.192 0 0 0-5.192 5.192 5.192 5.192 0 0 0 5.192 5.192h14.539A5.192 5.192 0 0 0 59 23.27zM44.461 37.807a5.192 5.192 0 0 0-5.192-5.192h-5.19v5.192A5.192 5.192 0 0 0 39.27 43a5.192 5.192 0 0 0 5.192-5.192zM24.73 43a5.192 5.192 0 0 0 5.193-5.192V23.269a5.192 5.192 0 0 0-5.192-5.192 5.192 5.192 0 0 0-5.192 5.192v14.539A5.192 5.192 0 0 0 24.73 43zM10.193 28.461a5.192 5.192 0 0 0 5.192-5.192v-5.19h-5.192A5.192 5.192 0 0 0 5 23.27a5.192 5.192 0 0 0 5.192 5.192zM5 8.73a5.192 5.192 0 0 0 5.192 5.193h14.539a5.192 5.192 0 0 0 5.192-5.192 5.192 5.192 0 0 0-5.192-5.192H10.192A5.192 5.192 0 0 0 5 8.73zM19.539-5.807A5.192 5.192 0 0 0 24.73-.616h5.192v-5.192A5.192 5.192 0 0 0 24.73-11a5.192 5.192 0 0 0-5.192 5.192z"/>
+        </g>
+        <path d="M39.27-11a5.192 5.192 0 0 0-5.193 5.192V8.731a5.192 5.192 0 0 0 5.192 5.192 5.192 5.192 0 0 0 5.192-5.192V-5.808A5.192 5.192 0 0 0 39.27-11zM53.807 3.539a5.192 5.192 0 0 0-5.192 5.192v5.192h5.192A5.192 5.192 0 0 0 59 8.73a5.192 5.192 0 0 0-5.192-5.192z" fill="url(#f)" transform="translate(0 16)"/>
+        <path d="M59 23.27a5.192 5.192 0 0 0-5.192-5.193H39.269a5.192 5.192 0 0 0-5.192 5.192 5.192 5.192 0 0 0 5.192 5.192h14.539A5.192 5.192 0 0 0 59 23.27zM44.461 37.807a5.192 5.192 0 0 0-5.192-5.192h-5.19v5.192A5.192 5.192 0 0 0 39.27 43a5.192 5.192 0 0 0 5.192-5.192z" fill="url(#g)" transform="translate(0 16)"/>
+        <path d="M24.73 43a5.192 5.192 0 0 0 5.193-5.192V23.269a5.192 5.192 0 0 0-5.192-5.192 5.192 5.192 0 0 0-5.192 5.192v14.539A5.192 5.192 0 0 0 24.73 43zM10.193 28.461a5.192 5.192 0 0 0 5.192-5.192v-5.19h-5.192A5.192 5.192 0 0 0 5 23.27a5.192 5.192 0 0 0 5.192 5.192z" fill="url(#h)" transform="translate(0 16)"/>
+        <path d="M5 8.73a5.192 5.192 0 0 0 5.192 5.193h14.539a5.192 5.192 0 0 0 5.192-5.192 5.192 5.192 0 0 0-5.192-5.192H10.192A5.192 5.192 0 0 0 5 8.73zM19.539-5.807A5.192 5.192 0 0 0 24.73-.616h5.192v-5.192A5.192 5.192 0 0 0 24.73-11a5.192 5.192 0 0 0-5.192 5.192z" fill="url(#i)" transform="translate(0 16)"/>
+    </g>
+</svg>

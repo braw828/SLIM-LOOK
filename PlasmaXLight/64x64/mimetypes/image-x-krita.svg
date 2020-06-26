@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="64" width="64">
+    <defs>
+        <linearGradient id="b">
+            <stop offset="0" stop-color="#fcfcfc"/>
+            <stop offset="1" stop-color="#f2f2f2"/>
+        </linearGradient>
+        <linearGradient id="a">
+            <stop offset="0" stop-color="#fcfcfc"/>
+            <stop offset=".523" stop-color="#f8f8f8"/>
+            <stop offset=".723" stop-color="#f0efef"/>
+            <stop offset=".89" stop-color="#e3e1e1"/>
+            <stop offset="1" stop-color="#cecbcb"/>
+        </linearGradient>
+        <linearGradient xlink:href="#a" id="d" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -.41829 .41829 0 3.59 53.163)" x1="86.738" y1="93.621" x2="95.182" y2="102.066"/>
+        <linearGradient xlink:href="#b" id="c" x1="20" y1="14" x2="35" y2="54" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.03625 0 0 1 -.903 .5)"/>
+    </defs>
+    <path d="M11.014 60H53.5V21L38.993 7h-27.98z" fill="url(#c)"/>
+    <path d="M38 6.5H11.5v53h42V22" fill="none" stroke="#757575"/>
+    <path d="M38 6.5c1.846 0 2.75 1.156 3.445 2.182 1.433 2.112 1.375 6.175 1.408 8.565 2.39.033 6.409-.069 8.52 1.363C52.4 19.306 53.5 20.797 53.5 22c0-.958-.452-1.96-1.588-3.135-3.658-3.778-6.67-7.178-10.457-10.611C40.58 7.46 39.85 6.5 38 6.5z" fill="url(#d)" stroke="#757575"/>
+        <g
+      transform="scale(2 2) translate(8 11)"
+     id="g2522">     <path fill="#807F7F" d="M2.093 1.66c-.03 0-.053 0-.068.018-.479.479 6.067 6.488 6.067 6.488l2.453 2.334c-.791 1.845 1.688 1.875 2.223 2.811.235.41-.051.967-.478.996.849.28 1.992-1.35 1.648-2.27-.41-1.099-.826-1.575-1.606-1.909-.322-.138-1.141-.149-1.427.012L8.632 7.627S3.023 1.74 2.094 1.659m1.034 5.834c-.217.001-.284.315-.284.745.041.85.579 3.33 3.25 5.137 2.249 1.522 6.365.972 6.298.108-.905-1.124-2.419-.423-2.439-3.114-.88.01-1.828-.131-1.793.24.148 1.552-2.313.433-3.267-1.15-.958-1.451-1.486-1.966-1.765-1.965m3.507 1.915c-.146 0-.263.048-.319.144-.111.192.069.505.403.698.334.193.695.193.806.001.111-.192-.07-.505-.404-.697-.167-.096-.486.001-.486-.145"/>
+    </g>
+</svg>

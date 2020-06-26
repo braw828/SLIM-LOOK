@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="64" width="64">
+    <defs>
+        <linearGradient id="b">
+            <stop offset="0" stop-color="#fcfcfc"/>
+            <stop offset="1" stop-color="#f2f2f2"/>
+        </linearGradient>
+        <linearGradient id="a">
+            <stop offset="0" stop-color="#fcfcfc"/>
+            <stop offset=".523" stop-color="#f8f8f8"/>
+            <stop offset=".723" stop-color="#f0efef"/>
+            <stop offset=".89" stop-color="#e3e1e1"/>
+            <stop offset="1" stop-color="#cecbcb"/>
+        </linearGradient>
+        <linearGradient xlink:href="#a" id="d" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -.41829 .41829 0 3.59 53.163)" x1="86.738" y1="93.621" x2="95.182" y2="102.066"/>
+        <linearGradient xlink:href="#b" id="c" x1="20" y1="14" x2="35" y2="54" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.03625 0 0 1 -.903 .5)"/>
+    </defs>
+    <path d="M11.014 60H53.5V21L38.993 7h-27.98z" fill="url(#c)"/>
+    <path d="M38 6.5H11.5v53h42V22" fill="none" stroke="#757575"/>
+    <path d="M38 6.5c1.846 0 2.75 1.156 3.445 2.182 1.433 2.112 1.375 6.175 1.408 8.565 2.39.033 6.409-.069 8.52 1.363C52.4 19.306 53.5 20.797 53.5 22c0-.958-.452-1.96-1.588-3.135-3.658-3.778-6.67-7.178-10.457-10.611C40.58 7.46 39.85 6.5 38 6.5z" fill="url(#d)" stroke="#757575"/>
+        <g
+      transform="scale(2 2) translate(8 11)"
+     id="g2522">     <path fill="#807F7F" d="M3.897 10.662c-.128.23-.23.576-.23.794 0 .05 0 .115.013.204l-1.6-2.75a.713.713 0 0 1-.089-.333c0-.115.038-.256.09-.345l.767-1.344-.857-.486 2.79-.052 1.356 2.444-.87-.499-1.37 2.368m1.229-7.755a1.25 1.25 0 0 1 1.126-.653c.524 0 .934.244 1.228.742l.435.73-1.51 2.61-2.444-1.42 1.165-2.009m.178 9.968c-.729 0-1.33-.602-1.33-1.331 0-.205.09-.55.218-.768l.409-.73h3.033v2.829h-2.33M7.736 2.83a1.569 1.569 0 0 0-.755-.691h3.148c.282 0 .499.115.627.333l.78 1.33.845-.499-1.357 2.432-2.776-.039.857-.486-1.37-2.38m4.85 7.242c.384 0 .704-.103.972-.307l-1.587 2.763a.709.709 0 0 1-.626.346H9.846v.985l-1.432-2.393 1.432-2.393v.999h2.74m1.227-2.304c.116.205.18.422.18.653 0 .46-.295.947-.704 1.177a1.61 1.61 0 0 1-.73.167h-.844l-1.51-2.61L12.65 5.76l1.164 2.01"/>
+    </g>
+</svg>

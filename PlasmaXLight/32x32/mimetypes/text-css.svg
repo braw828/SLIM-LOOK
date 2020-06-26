@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="32" width="32">
+    <defs>
+        <linearGradient id="b">
+            <stop offset="0" stop-color="#fcfcfc"/>
+            <stop offset="1" stop-color="#f2f2f2"/>
+        </linearGradient>
+        <linearGradient id="a">
+            <stop offset="0" stop-color="#fcfcfc"/>
+            <stop offset=".523" stop-color="#f8f8f8"/>
+            <stop offset=".723" stop-color="#f0efef"/>
+            <stop offset=".89" stop-color="#e3e1e1"/>
+            <stop offset="1" stop-color="#cecbcb"/>
+        </linearGradient>
+        <linearGradient xlink:href="#a" id="d" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -.2131 .20914 0 1.545 26.272)" x1="86.738" y1="93.621" x2="95.182" y2="102.066"/>
+        <linearGradient xlink:href="#b" id="c" x1="20" y1="14" x2="35" y2="54" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.51812 0 0 .50943 -.702 -.557)"/>
+    </defs>
+    <path d="M5.257 29.755H26.5V9.887l-7.253-7.132H5.257z" fill="url(#c)"/>
+    <path d="M18.75 2.5H5.5v27h21V10.396" fill="none" stroke="#757575"/>
+    <path d="M18.75 2.5c.923 0 1.375.589 1.722 1.112.717 1.076.688 3.145.704 4.363 1.196.017 3.205-.035 4.26.694.514.355 1.064 1.114 1.064 1.727 0-.488-.226-.998-.794-1.597-1.829-1.924-3.335-3.657-5.229-5.405-.437-.405-.802-.894-1.727-.894z" fill="url(#d)" stroke="#757575"/>
+        <g transform="translate(5 8)">
+            <path style="line-height:125%;-inkscape-font-specification:oxygen" d="M10 3.002c-1.742.013-2.477.72-2.477 2.508V7.95c0 1.114-.034 2.404-1.015 2.404H6v1.29h.508c.981 0 1.015 1.29 1.015 2.404v2.441c0 1.787.735 2.495 2.477 2.508v-1.184c-1.135-.013-1.156-.5-1.156-2.209V13.59c0-.831-.205-2.068-1.203-2.58.998-.513 1.203-1.751 1.203-2.582V6.395c0-1.708.021-2.196 1.156-2.21V3.003zm2 .002v1.183c1.119.019 1.156.508 1.156 2.208v2.033c0 .83.205 2.07 1.203 2.582-.998.512-1.203 1.749-1.203 2.58v2.015c0 1.7-.037 2.19-1.156 2.207v1.184c1.73-.017 2.477-.724 2.477-2.506V14.05c0-1.114.068-2.404 1.033-2.404H16v-1.29h-.49c-.965 0-1.033-1.29-1.033-2.404V5.51c0-1.782-.746-2.489-2.477-2.506zM4 18v1h1v-1H4z" font-weight="400" font-family="oxygen" letter-spacing="0" word-spacing="0" fill="#FFC519"/>
+
+    </g>
+</svg>
